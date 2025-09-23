@@ -1,0 +1,435 @@
+<x-header />
+<main class="main">
+
+    <!-- Page Title -->
+    <div class="page-title" data-aos="fade" id="about-bg-title">
+        <div class="heading">
+            <div class="container">
+                <div class="row d-flex justify-content-center text-center">
+                    <div class="col-lg-8">
+                        <h1 class="text-white">About Details</h1>
+                        <p class="mb-0">At Tech Provider, we are more than just a tech company – we are your trusted
+                            partner in building innovative digital solutions that empower businesses to achieve their
+                            goals.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <nav class="breadcrumbs">
+            <div class="container">
+                <ol>
+                    <li><a href="index.html">Home</a></li>
+                    <li class="current">About Details</li>
+                </ol>
+            </div>
+        </nav>
+    </div><!-- End Page Title -->
+</main>
+
+<!-- About Section -->
+<section id="about" class="about section">
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>About</h2>
+        <p>Welcome to Tech Provider</p>
+    </div>
+    <!-- End Section Title -->
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1 order-lg-2">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>We Provide Tech Solutions</h3>
+                <p class="fst-italic">
+                    Welcome to Tech, where innovation meets collaboration. We are a cutting-edge technology solutions
+                    provider committed to empowering teams and organizations to achieve their goals efficiently and
+                    effectively.
+                </p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Innovative Solutions: </b>Tools designed for modern teams to collaborate
+                            effectively.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Customizable Features: </b>Tailor our solutions to your unique needs.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>User-Centric Design: </b>Simplifying workflows with an intuitive interface.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Scalability: </b>Our solutions grow with your team and organization.</span>
+                    </li>
+                </ul>
+                <p>
+                    At Tech Provider, we understand the power of teamwork in driving success. That’s why we create
+                    seamless, scalable, and intuitive tech solutions designed to enhance collaboration, communication,
+                    and productivity. From project management tools to real-time collaboration platforms, we offer
+                    solutions tailored to meet the dynamic needs of modern teams.
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about section">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>Who We Are</h3>
+                <p class="fst-italic">
+                    We are a team of experienced developers, designers, and strategists who work together to create
+                    cutting-edge solutions for businesses of all sizes. From startups to enterprises, we help our
+                    clients navigate the digital landscape with expertise and creativity.
+                </p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Innovative Thinkers: </b>We believe in challenging the status quo, constantly exploring
+                            new ideas and technologies to deliver cutting-edge solutions that make a difference.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Customer-Focused Approach: </b>Your goals are our goals. We prioritize understanding
+                            your needs and collaborating with you to create solutions that align with your
+                            vision.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>End-to-End Expertise: </b>From ideation to execution, we handle every aspect of the
+                            process, ensuring seamless delivery and outstanding results.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Dedicated Team: </b>Our team consists of skilled developers, creative designers, and
+                            strategic thinkers who work together to bring your projects to life.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Results-Driven: </b>Success for us means measurable outcomes for you. We focus on
+                            delivering solutions that drive growth, engagement, and efficiency.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about section">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1 order-lg-2">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>What We Do</h3>
+                <p class="fst-italic">
+                    Our services range from web and mobile app development to UI/UX design, graphic design, and product
+                    management. Whether you're launching a new project or enhancing an existing one, we provide
+                    end-to-end support to ensure your success.
+                </p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Discovery & Strategy: </b>We begin by understanding your goals, target audience, and
+                            unique needs to create a roadmap for success.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Design & Development: </b>Our team of experts brings your ideas to life with stunning
+                            designs and robust technology solutions.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Testing & Deployment: </b>We rigorously test every project to ensure it meets the
+                            highest standards of quality and performance.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Continuous Support: </b>Our work doesn’t stop at launch. We provide ongoing support and
+                            optimization to help your business grow.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about section">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>Our Vision</h3>
+                <p class="fst-italic">
+                    We aim to be a driving force in the digital world by delivering solutions that not only meet but
+                    exceed expectations. Our vision is to empower businesses with technology that inspires growth,
+                    efficiency, and innovation.
+                </p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Innovation Drives Growth: </b>We aim to continuously push boundaries and embrace new
+                            technologies to empower businesses with innovative solutions that fuel growth and
+                            efficiency.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Technology is Accessible to All: </b>Our vision is to make advanced digital tools and
+                            solutions accessible to businesses of all sizes, helping them compete in a fast-paced,
+                            ever-evolving marketplace.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>User Experiences Redefine Success: </b>By focusing on intuitive and engaging user
+                            experiences, we strive to create digital products that not only meet expectations but exceed
+                            them.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Collaboration Fuels Excellence: </b>We believe that the best results come from strong
+                            partnerships, both with our clients and within our team. Together, we can achieve
+                            extraordinary outcomes.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about section">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1 order-lg-2">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>Our Mission</h3>
+                <p class="fst-italic">At Tech Provider, our mission is to empower businesses and individuals with
+                    cutting-edge digital solutions that drive growth, innovation, and success. We are dedicated to
+                    transforming ideas into impactful realities by combining creativity, technology, and strategy.</p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Deliver Tailored Solutions: </b>Every business is unique, and so are its challenges.
+                            Our mission is to provide customized solutions that meet specific needs and goals.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Foster Innovation: </b>We strive to stay ahead of the curve by leveraging the latest
+                            technologies and trends to create groundbreaking solutions.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Enhance User Experiences: </b>Whether it's a website, mobile app, or design, our focus
+                            is on delivering seamless, intuitive, and engaging user experiences.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Support Growth and Success: </b>By providing scalable and efficient digital services,
+                            we help businesses unlock their potential and achieve long-term success.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Build Lasting Relationships: </b>We believe in working closely with our clients,
+                            building trust, and fostering partnerships that last.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="about" class="about section">
+    <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="row gy-4">
+            <div class="col-lg-6 order-1">
+                <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-lg-6 order-2 order-lg-1 content">
+                <h3>Why Choose Us?</h3>
+                <p class="fst-italic">At Tech Provider, we understand that selecting the right partner for your digital
+                    journey is crucial to your success.</p>
+                <ul>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Expert Team: </b>Our talented professionals bring years of experience and industry
+                            knowledge to every project.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Tailored Solutions: </b>We understand that every business is unique, and we customize
+                            our services to fit your specific needs.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Commitment to Excellence: </b>We focus on delivering quality, innovation, and timely
+                            results.</span>
+                    </li>
+                    <li>
+                        <i class="bi bi-check2-all"></i>
+                        <span><b>Client-Centric Approach: </b>Your success is our priority, and we work closely with you
+                            every step of the way.</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- /About Section -->
+
+<!-- Team Section -->
+<section id="team" class="team section">
+    <!-- Section Title -->
+    <div class="container section-title" data-aos="fade-up">
+        <h2>Team</h2>
+        <p>our Team</p>
+    </div>
+    <!-- End Section Title -->
+
+    <div class="container">
+        <div class="swiper mySwiper">
+            <div class="swiper-wrapper">
+                <!-- Team Members as Swiper Slides -->
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/pankaj.jpg" class="img-fluid" alt="Pankaj Kumar">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Pankaj Kumar</h4>
+                            <span>Head Of Department</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/pavan.jpg" class="img-fluid" alt="Pavan Kumar">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Pavan Kumar</h4>
+                            <span>Team Director</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/satish.jpg" class="img-fluid" alt="Satish Pasawan">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Satish Pasawan</h4>
+                            <span>Team Manager / Frontend Developer</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/vishal.jpg" class="img-fluid" alt="Vishal Kumar">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Vishal Kumar</h4>
+                            <span>Team Leader / Backend Developer</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/mukesh.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Mukesh Prajapati</h4>
+                            <span>Team Supporter / Backend Developer</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/chandsi.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Chandsi Kumar</h4>
+                            <span>Frontend Developer / Figma Designer</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="swiper-slide">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="assets/img/team/ajay.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                            <div class="social">
+                                <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                <a href="#"><i class="bi bi-facebook"></i></a>
+                                <a href="#"><i class="bi bi-instagram"></i></a>
+                                <a href="#"><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Ajay Kumar</h4>
+                            <span>Flutter Developer / Figma Designer</span>
+                        </div>
+                    </div>
+                </div>
+            </div><br>
+            <div class="swiper-pagination mt-5"></div>
+        </div>
+    </div>
+</section>
+<!-- /Team Section -->
+<x-footer />

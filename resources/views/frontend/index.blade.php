@@ -1,0 +1,633 @@
+<x-header />
+<main class="main">
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+        <img src="assets/img/bg.jpg" alt="" data-aos="fade-in" />
+
+        <div class="container">
+            <div class="row justify-content-center text-center" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-xl-6 col-lg-8">
+                    <h2>Powerful Web Solutions With Tech Provider<span>.</span></h2>
+                    <p>We are team of talented web solutions</p>
+                </div>
+            </div>
+
+            <div class="row gy-4 mt-5 justify-content-center" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="300">
+                    <div class="icon-box">
+                        <i class="bi bi-globe"></i>
+                        <h3><a href="">Web Development</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="400">
+                    <div class="icon-box">
+                        <i class="bi bi-phone"></i>
+                        <h3><a href=""> Android Development</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="500">
+                    <div class="icon-box">
+                        <i class="bi bi-palette"></i>
+                        <h3><a href="">Figma Design</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="600">
+                    <div class="icon-box">
+                        <i class="bi bi-brush"></i>
+                        <h3><a href="">UI/UX Design</a></h3>
+                    </div>
+                </div>
+                <div class="col-xl-2 col-md-4" data-aos="fade-up" data-aos-delay="700">
+                    <div class="icon-box">
+                        <i class="bi-vector-pen"></i>
+                        <h3><a href="">Graphic Design</a></h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>About</h2>
+            <p>Welcome to Tech Provider</p>
+        </div>
+        <!-- End Section Title -->
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+            <div class="row gy-4">
+                <div class="col-lg-6 order-1 order-lg-2">
+                    <img src="assets/img/about.jpg" class="img-fluid" alt="" />
+                </div>
+                <div class="col-lg-6 order-2 order-lg-1 content">
+                    <h3>We Provide Tech Solutions</h3>
+                    <p class="fst-italic">
+                        Welcome to Tech, where innovation meets collaboration. We are a cutting-edge technology
+                        solutions provider committed to empowering teams and organizations to achieve their goals
+                        efficiently and effectively.
+                    </p>
+                    <ul>
+                        <li>
+                            <i class="bi bi-check2-all"></i>
+                            <span><b>Innovative Solutions: </b>Tools designed for modern teams to collaborate
+                                effectively.</span>
+                        </li>
+                        <li>
+                            <i class="bi bi-check2-all"></i>
+                            <span><b>Customizable Features: </b>Tailor our solutions to your unique needs.</span>
+                        </li>
+                        <li>
+                            <i class="bi bi-check2-all"></i>
+                            <span><b>User-Centric Design: </b>Simplifying workflows with an intuitive interface.</span>
+                        </li>
+                        <li>
+                            <i class="bi bi-check2-all"></i>
+                            <span><b>Scalability: </b>Our solutions grow with your team and organization.</span>
+                        </li>
+                    </ul>
+                    <p>
+                        At Tech Provider, we understand the power of teamwork in driving success. That’s why we create
+                        seamless, scalable, and intuitive tech solutions designed to enhance collaboration,
+                        communication, and productivity. From project management tools to real-time collaboration
+                        platforms, we offer solutions tailored to meet the dynamic needs of modern teams.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /About Section -->
+
+    <!-- Features Section -->
+    <section id="features" class="features section">
+        <div class="container">
+            <div class="row gy-4">
+                <div class="features-image col-lg-6" data-aos="fade-up" data-aos-delay="100">
+                    <img src="assets/img/about-2.jpg" alt="" />
+                </div>
+                <div class="col-lg-6">
+                    <div class="features-item d-flex ps-0 ps-lg-3 pt-4 pt-lg-0" data-aos="fade-up" data-aos-delay="200">
+                        <i class="bi bi-people flex-shrink-0"></i>
+                        <div>
+                            <h4>Real-Time Collaboration</h4>
+                            <p>
+                                Work together effortlessly with tools that enable live updates, document sharing, and
+                                instant communication.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="300">
+                        <i class="bi bi-tools flex-shrink-0"></i>
+                        <div>
+                            <h4>Project Management Tools</h4>
+                            <p>
+                                Organize tasks, set deadlines, and track progress with our user-friendly project
+                                management system.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="400">
+                        <i class="bi bi-chat flex-shrink-0"></i>
+                        <div>
+                            <h4>Seamless Communication</h4>
+                            <p>
+                                Stay connected with your team through instant messaging, notifications, and group
+                                discussions.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Features Item-->
+
+                    <div class="features-item d-flex mt-5 ps-0 ps-lg-3" data-aos="fade-up" data-aos-delay="500">
+                        <i class="bi bi-lightbulb flex-shrink-0"></i>
+                        <div>
+                            <h4>Customizable Solutions</h4>
+                            <p>
+                                Tailor the platform to meet your team’s specific needs with customizable dashboards and
+                                features.
+                            </p>
+                        </div>
+                    </div>
+                    <!-- End Features Item-->
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /Features Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section">
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Services</h2>
+            <p>Check our Services</p>
+        </div>
+        <!-- End Section Title -->
+
+        <div class="container">
+            <div class="row gy-4">
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-globe"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>Web Development</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we bring your digital ideas to life with cutting-edge web development
+                            services. Our team of expert developers and designers crafts dynamic, user-friendly, and
+                            high-performing websites tailored to meet your business needs. Whether you’re looking to
+                            build a simple portfolio, an e-commerce platform, or a complex web application, we’ve got
+                            you covered.
+                        </p>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-phone-fill"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>Android Development</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we specialize in crafting innovative, high-performance Android
+                            applications that empower businesses to thrive in the digital age. With a user-first
+                            approach and cutting-edge technologies, we design apps that are fast, scalable, and tailored
+                            to your unique needs.
+                        </p>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-palette"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>Figma Design</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we bring your ideas to life with stunning, user-focused designs created
+                            using Figma. Our team of expert designers uses this powerful, collaborative design tool to
+                            craft pixel-perfect designs that captivate users and deliver seamless experiences. Whether
+                            you need UI/UX design, wireframes, prototypes, or a full design system, we have the skills
+                            and creativity to meet your needs.
+                        </p>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-brush"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>UI/UX Design</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we craft user-centric designs that blend functionality with creativity,
+                            ensuring a seamless experience for your audience. We understand that great design is more
+                            than just aesthetics—it's about creating intuitive interfaces and enjoyable interactions
+                            that resonate with users and drive engagement.
+                        </p>
+                        <a href="/service" class="stretched-link"></a>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-vector-pen"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>Graphic Design</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we bring your brand to life with visually stunning and impactful graphic
+                            designs. Whether you need logos, banners, brochures, or social media graphics, our creative
+                            team ensures your visual assets leave a lasting impression on your audience. We combine
+                            creativity with strategy to design graphics that not only look great but also communicate
+                            your brand's message effectively.
+                        </p>
+                        <a href="/service" class="stretched-link"></a>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+
+                <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+                    <div class="service-item position-relative">
+                        <div class="icon">
+                            <i class="bi bi-tools"></i>
+                        </div>
+                        <a href="/service" class="stretched-link">
+                            <h3>Product Management</h3>
+                        </a>
+                        <p>
+                            At Tech Provider, we empower businesses to bring their ideas to life with efficient and
+                            strategic product management. From ideation to launch and beyond, we help you develop,
+                            execute, and scale your products while ensuring they meet market demands and deliver
+                            exceptional value to your users.
+                        </p>
+                        <a href="/service" class="stretched-link"></a>
+                    </div>
+                </div>
+                <!-- End Service Item -->
+            </div>
+        </div>
+    </section>
+    <!-- /Services Section -->
+
+    <!-- Call To Action Section -->
+    <section id="call-to-action" class="call-to-action section dark-background">
+        <img src="assets/img/call_banner.jpg" alt="" />
+
+        <div class="container">
+            <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+                <div class="col-xl-10">
+                    <div class="text-center">
+                        <h3>Call To Action</h3>
+                        <p>
+                            At Tech Provider, we're here to help you achieve your goals with innovative tech solutions,
+                            creative designs, and expert services. Whether you're looking to build a stunning website,
+                            develop an Android app, or create a memorable brand identity, we have the expertise to make
+                            it happen.
+                        </p>
+                        <a class="cta-btn" href="#">Call To Action</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /Call To Action Section -->
+
+    <!-- Stats Section -->
+    <section id="stats" class="stats section">
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+            <div class="row gy-4 align-items-center justify-content-between">
+                <div class="col-lg-5">
+                    <img src="assets/img/OurNumbers.jpg" alt="" class="img-fluid" />
+                </div>
+
+                <div class="col-lg-6">
+                    <h3 class="fw-bold fs-2 mb-3">
+                        Our Impact in Numbers
+                    </h3>
+                    <p>
+                        At Tech Provider, we pride ourselves on delivering outstanding results for our clients. Our
+                        success is driven by innovation, expertise, and a commitment to excellence. Here's a glimpse of
+                        the impact we've made:
+                    </p>
+
+                    <div class="row gy-4">
+                        <div class="col-lg-6">
+                            <div class="stats-item d-flex">
+                                <i class="bi bi-emoji-smile flex-shrink-0"></i>
+                                <div>
+                                    <span data-purecounter-start="0" data-purecounter-end="10"
+                                        data-purecounter-duration="1" class="purecounter"></span>
+                                    <p>
+                                        <strong>Happy Clients</strong>
+                                        <span>We've helped 10+ businesses grow and achieve their goals with tailored
+                                            digital solutions.</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Stats Item -->
+
+                        <div class="col-lg-6">
+                            <div class="stats-item d-flex">
+                                <i class="bi bi-journal-richtext flex-shrink-0"></i>
+                                <div>
+                                    <span data-purecounter-start="0" data-purecounter-end="10"
+                                        data-purecounter-duration="1" class="purecounter"></span>
+                                    <p>
+                                        <strong>Projects</strong>
+                                        <span>Over 10+ successful projects across diverse industries, from startups to
+                                            enterprises.</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Stats Item -->
+
+                        <div class="col-lg-6">
+                            <div class="stats-item d-flex">
+                                <i class="bi bi-headset flex-shrink-0"></i>
+                                <div>
+                                    <span data-purecounter-start="0" data-purecounter-end="10"
+                                        data-purecounter-duration="1" class="purecounter"></span>
+                                    <p>
+                                        <strong>Hours Of Support</strong>
+                                        <span>Our team has dedicated over 10,000 hours to resolving issues, guiding
+                                            clients, and ensuring smooth project execution.
+                                        </span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Stats Item -->
+
+                        <div class="col-lg-6">
+                            <div class="stats-item d-flex">
+                                <i class="bi bi-people flex-shrink-0"></i>
+                                <div>
+                                    <span data-purecounter-start="0" data-purecounter-end="10"
+                                        data-purecounter-duration="1" class="purecounter"></span>
+                                    <p>
+                                        <strong>Hard Workers</strong>
+                                        <span>A passionate and skilled team of designers, developers, and strategists
+                                            committed to making your vision a reality.</span>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End Stats Item -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- /Stats Section -->
+
+    <!-- Team Section -->
+    <section id="team" class="team section">
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Team</h2>
+            <p>our Team</p>
+        </div>
+        <!-- End Section Title -->
+
+        <div class="container">
+            <div class="swiper mySwiper">
+                <div class="swiper-wrapper">
+                    <!-- Team Members as Swiper Slides -->
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/pankaj.jpg" class="img-fluid" alt="Pankaj Kumar">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Pankaj Kumar</h4>
+                                <span>Head Of Department</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/pavan.jpg" class="img-fluid" alt="Pavan Kumar">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Pavan Kumar</h4>
+                                <span>Team Director</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/satish.jpg" class="img-fluid" alt="Satish Pasawan">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Satish Pasawan</h4>
+                                <span>Team Manager / Frontend Developer</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/vishal.jpg" class="img-fluid" alt="Vishal Kumar">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Vishal Kumar</h4>
+                                <span>Team Leader / Backend Developer</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/mukesh.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Mukesh Prajapati</h4>
+                                <span>Team Supporter / Backend Developer</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/chandsi.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Chandsi Kumar</h4>
+                                <span>Frontend Developer / Figma Designer</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="swiper-slide">
+                        <div class="team-member">
+                            <div class="member-img">
+                                <img src="assets/img/team/ajay.jpg" class="img-fluid" alt="Mukesh Prajapati">
+                                <div class="social">
+                                    <a href="#"><i class="bi bi-twitter-x"></i></a>
+                                    <a href="#"><i class="bi bi-facebook"></i></a>
+                                    <a href="#"><i class="bi bi-instagram"></i></a>
+                                    <a href="#"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                            <div class="member-info">
+                                <h4>Ajay Kumar</h4>
+                                <span>Flutter Developer / Figma Designer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div><br>
+                <div class="swiper-pagination mt-5"></div>
+            </div>
+        </div>
+    </section>
+    <!-- /Team Section -->
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+        <!-- Section Title -->
+        <div class="container section-title" data-aos="fade-up">
+            <h2>Contact</h2>
+            <p>Contact Us</p>
+        </div>
+        <!-- End Section Title -->
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row gy-4">
+                <div class="col-lg-4">
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                        <i class="bi bi-geo-alt flex-shrink-0"></i>
+                        <div>
+                            <h3>Address</h3>
+                            <p>Ashoka Garden, Near By Police Station, Bhopal, Madhya Pradesh, 462024</p>
+                        </div>
+                    </div>
+                    <!-- End Info Item -->
+
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                        <i class="bi bi-telephone flex-shrink-0"></i>
+                        <div>
+                            <h3>Call Us</h3>
+                            <p>+91 6392 3262 38</p>
+                        </div>
+                    </div>
+                    <!-- End Info Item -->
+
+                    <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="500">
+                        <i class="bi bi-envelope flex-shrink-0"></i>
+                        <div>
+                            <h3>Email Us</h3>
+                            <p>techprovider@gmail.com</p>
+                        </div>
+                    </div>
+                    <!-- End Info Item -->
+                </div>
+
+                <div class="col-lg-8">
+                    <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up"
+                        data-aos-delay="200">
+                        <div class="row gy-4">
+                            <div class="col-md-6">
+                                <input type="text" name="name" class="form-control" placeholder="Your Name"
+                                    required="" />
+                            </div>
+
+                            <div class="col-md-6">
+                                <input type="email" class="form-control" name="email" placeholder="Your Email"
+                                    required="" />
+                            </div>
+
+                            <div class="col-md-12">
+                                <input type="text" class="form-control" name="subject" placeholder="Subject"
+                                    required="" />
+                            </div>
+
+                            <div class="col-md-12">
+                                <textarea class="form-control" name="message" rows="6" placeholder="Message" required=""></textarea>
+                            </div>
+
+                            <div class="col-md-12 text-center">
+                                <div class="loading">Loading</div>
+                                <div class="error-message"></div>
+                                <div class="sent-message">
+                                    Your message has been sent. Thank you!
+                                </div>
+
+                                <button type="submit">Send Message</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- End Contact Form -->
+            </div>
+        </div>
+    </section>
+    <!-- /Contact Section -->
+</main>
+<x-footer />
