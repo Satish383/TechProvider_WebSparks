@@ -1389,6 +1389,18 @@ section,
   height: 372px;
 }
 
+@media (max-width: 768px) {
+  .team .team-member{
+    height: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .team .team-member {
+    height: 100%;
+  }
+}
+
 .team .team-member .member-img {
   position: relative;
   overflow: hidden;
